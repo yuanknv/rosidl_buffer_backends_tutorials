@@ -23,9 +23,8 @@
   <depend>rclcpp</depend>
   <depend>rclcpp_components</depend>
   <depend>sdl2</depend>
-  <depend>sensor_msgs</depend>
-  <depend>torch_buffer</depend>
-  <depend>torch_buffer_backend</depend>
+  <depend>torch_tensor_bridge</depend>
+  <depend>torch_tensor_msgs</depend>
 
   <test_depend>ament_lint_auto</test_depend>
   <test_depend>ament_lint_common</test_depend>
